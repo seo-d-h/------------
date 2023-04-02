@@ -5,4 +5,5 @@ elevator_termproject/elevator_termproject/elevator_termproject.cproj
 
 tinyRTC/.vs
 tinyRTC/tinyRTC/Debug
-tinyRTC/tinyRTC/tinyRTC.componentinfo.xml/tinyRTC.cproj.DS_Store
+tinyRTC/tinyRTC/tinyRTC.componentinfo.xml/tinyRTC.cproj
+.DS_Store
