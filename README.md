@@ -1,5 +1,5 @@
 # Atmega128_Elevator_Project
-
+https://www.youtube.com/watch?v=nzGrvzZ4eBY
 ## 1. H/W Configuration
 ### 1) System Actuate Part
 <img width="50%" src="https://user-images.githubusercontent.com/103934004/229349814-a03a32a2-221d-4e47-a586-9933f1f45879.png">
